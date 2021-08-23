@@ -25,3 +25,57 @@
 	float: right;
 	width: 72.5%;
 }
+
+/*----------------------------------------Separar o que já estava arrumado por padrão.------------------------------------------------------*/
+
+img {
+	border-radius: 100px;
+}
+
+.mainDetails {
+	border-style: solid;
+    border-color: #f3f3f3 #f3f3f3 #cf8a05;
+	padding: 30px;
+}
+
+section .sectionContent article h2, .subDetails {
+	color: #444444;
+	padding: 1px;
+	margin: 1px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#contactDetails ul li a {
+	color: #181818;
+}                 
+
+.sectionTitle .tópico {
+	color: #cf8a05;
+	text-align: center;
+	font-size: 1.7em;
+	font-style: italic;
+}
+
+body {
+	background-color: #f3f3f3;
+}
+
+hr {
+	border: none;
+	height: 1px;
+	background: #dedede;
+}
+
+#contactDetails ul li{
+	list-style-type: none;
+}
+
+section	.sectionContent ul li {
+	list-style-type: none;
+	float: left;
+}
+
+
+
+
+
